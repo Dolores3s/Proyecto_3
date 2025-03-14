@@ -15,6 +15,6 @@ Imagen de la página en su menor tamaño 1/4.
 Imagen de la página un mayor tamaño 2/4.
 ![image](https://github.com/user-attachments/assets/82cfc863-8b64-45da-a0d5-9facf6901f33)
 Imagen de la página un mayor tamaño 3/4.
-![image](https://github.com/user-attachments/assets/bf5dba56-c893-4940-adbd-3f0157f2e150)
+![image](https://github.com/user-attachments/assets/c5372c45-3c09-41c1-a41e-dd5c435afb5c)
 Imagen de la página en su mayor tamaño 4/4.
 ![image](https://github.com/user-attachments/assets/e2a14958-eb8a-4daf-8d04-a2275b4a6705)
